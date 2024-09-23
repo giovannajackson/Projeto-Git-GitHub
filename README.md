@@ -1,4 +1,6 @@
 # Olá Mundo
  Meu primeiro repositório de Git e GitHub
  
- Linha adicionada direto pelo site
+ Linha adicionada diretamente pelo site
+
+Iniciando um projeto

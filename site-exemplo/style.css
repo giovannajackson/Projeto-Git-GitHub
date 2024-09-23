@@ -1,0 +1,13 @@
+body {
+    background-color: rgba(207, 207, 180, 0.842);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    float: initial;
+    text-align: justify;
+}
+
+h1 {
+    font-size: 25px;
+}
+p {
+    font-size: 15px;
+}
